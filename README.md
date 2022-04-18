@@ -19,7 +19,7 @@ Synopsis
   TrajClust(AnnData, clone_label, clone_axis)
    - TrajClust algorithm
   
-  stdApproach(AnnData, clone_label, clone_axis)
+  StdApproach(AnnData, clone_label, clone_axis)
    - Comparative standard approach to cluster clone differentiations
    
 Description
