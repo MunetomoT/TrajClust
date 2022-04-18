@@ -20,7 +20,7 @@ Synopsis
    - TrajClust algorithm
   
   StdApproach(AnnData, clone_label, clone_axis)
-   - Comparative standard approach to cluster clone differentiations
+   - Demonstration of maximum performance achieveable by current standard approach to cluster clone differentiations
    
 Description
 -----------
