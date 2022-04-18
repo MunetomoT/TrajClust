@@ -3,7 +3,9 @@
 * Trajectory clustering of clone differentiation - TrajClust
 
 Any questions and comments please contact
+   
    mt739@mrc-tox.cam.ac.uk
+   
    jedt2@mrc-tox.cam.ac.uk
 
 Name
