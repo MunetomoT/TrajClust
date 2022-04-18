@@ -16,10 +16,10 @@ Name
 Synopsis
 --------
 
-  TrajClust(AnnData, clone_label, clone_axis)
+  TrajClust(AnnData, cloneLabel, pseudotime)
    - TrajClust algorithm
   
-  StdApproach(AnnData, clone_label, clone_axis)
+  StdApproach(AnnData, cloneLabel, pseudotime)
    - Demonstration of performance achieveable by current standard approach to cluster clone differentiations
    
 Description
