@@ -4,9 +4,9 @@
 
 Any questions and comments please contact
    
-   mt739@mrc-tox.cam.ac.uk
+   mt739@cam.ac.uk
    
-   jedt2@mrc-tox.cam.ac.uk
+   jedt2@cam.ac.uk
 
 Name
 ----
