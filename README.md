@@ -32,7 +32,7 @@ The user will pass in a Annotated data matrix (AnnData) containing raw gene coun
 TrajClust returns a dictionary containing the cluster assignment of clones, with the number of clusters either user-defined, or determined by maximising the silhouette score of the resulting clusters. If the cluster identities of the clones are known beforehand, TrajClust returns the Rand and NMI (Normalised Mutualised Information) scores of the clusters found by the algorithm.
 
 **Schematic for TrajClust**
-<img width="828" alt="image" src="https://github.com/MunetomoT/TrajClust/assets/30675477/cedfa3dd-21a5-4208-a01b-3ea40cf8100e">
+<img width="832" alt="image" src="https://github.com/MunetomoT/TrajClust/assets/30675477/cedfa3dd-21a5-4208-a01b-3ea40cf8100e">
 
 **Schematic for StdApproach**
 <img width="832" alt="image" src="https://github.com/MunetomoT/TrajClust/assets/30675477/ff253d47-5558-4aef-98ba-e4c9607dcbe1">
